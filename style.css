@@ -1,0 +1,43 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.base{
+	border: 2px solid #000;
+	width: 700px;
+	text-align: center;
+	margin:auto;
+}
+
+.cabecera{
+	background-color: #FFBB04;
+	border-bottom: 1px solid #000;
+	line-height: 30px;
+}
+
+.foot{
+	background-color: #FFBB04;
+	text-align: center;
+	border-top: 1px solid #000;
+	clear: left;
+}
+
+.column1{
+	width: 28%;
+	float: left;
+	border-right: 1px solid #000;
+	padding:10px;
+}
+
+.column2{
+	float: left;
+	width: 30%;
+	padding:28px;
+}
+.column3{
+	width: 28%;
+	float: left;
+	border-left: 1px solid #000;
+	padding:10px;
+}
